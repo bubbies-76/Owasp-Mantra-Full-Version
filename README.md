@@ -239,3 +239,6 @@ This repository serves as the official landing page for OWASP Mantra. The softwa
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of OWASP Mantra today!**
+
+---
+**Last updated:** 2026-09-08 22:05:54 UTC
