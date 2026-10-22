@@ -241,4 +241,4 @@ This repository serves as the official landing page for OWASP Mantra. The softwa
 **Get the most recent version of OWASP Mantra today!**
 
 ---
-**Last updated:** 2026-10-22 12:35:15 UTC
+**Last updated:** 2026-10-22 17:42:40 UTC
